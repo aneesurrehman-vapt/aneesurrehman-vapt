@@ -1,16 +1,28 @@
-## Hi there 👋
+# Anees ur Rehman
 
-<!--
-**aneesurrehman-vapt/aneesurrehman-vapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VAPT | Web Application Security | Penetration Testing**
 
-Here are some ideas to get you started:
+Electronics & Computing student at **COMSATS University Islamabad**, focused on **Vulnerability Assessment and Penetration Testing (VAPT)** and practical web application security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Focus
+
+* Vulnerability Assessment & Penetration Testing
+* Web Application Security
+* Reconnaissance & Enumeration
+* OWASP Top 10
+* API Security
+* Security Assessment & Reporting
+
+### Technical Skills
+
+**Security Tools:** Burp Suite · Nmap · Metasploit · Wireshark · Kali Linux
+
+**Platforms & Labs:** TryHackMe · DVWA · Metasploitable
+
+### Current Focus
+
+Building hands-on VAPT projects, conducting security assessments in authorized lab environments, and documenting vulnerabilities, evidence, impact, and remediation.
+
+### Connect
+
+LinkedIn: https://www.linkedin.com/in/anees-ur-rehman1/
